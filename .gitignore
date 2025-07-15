@@ -1,0 +1,4 @@
+/.idea
+valgrind_logs/
+build/
+.vscode
